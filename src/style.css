@@ -1,0 +1,324 @@
+.ant-menu-submenu-title{
+    font-size:12px;
+  
+}
+
+*{
+    font-family:Lucida Grande, Verdana, Lucida Sans Regular, Lucida Sans Unicode, Arial, sans-serif!important;
+  
+}
+.ant-table-thead tr div{
+    
+    font-weight: bold !important;
+}
+.ant-table{
+    font-size: 13px !important;
+}
+
+.asd .ant-menu-submenu-title {
+    margin:0 auto !important;
+    height:38px !important;
+    line-height: 38px !important;
+}
+#asd_list{
+    height: 40px;
+}
+.ant-menu-submenu{
+    background:#fff;
+}
+.ant-layout-header{
+    background:#438eb9!important;
+    height: 45px !important;
+    line-height: 45px!important;
+    font-size:21px !important;
+}
+.asd{
+    border:1px solid #ccc;
+    padding:0 !important;
+    background:#428bca!important;
+    color:#fff;
+    font-size:12px !important;
+}
+.ant-menu-submenu-active{
+    color:#fff !important;
+}
+.asd span{
+    color:#fff;
+}
+.header{
+    padding:0 0 !important;
+}
+
+.aBt button{
+    line-height:25px;
+    background: #6fb3e0;
+}
+
+.aBt button:hover{
+
+    background:blue;
+}
+.add_user_forms{
+    width:600px;
+    background: #fff;
+    border:1px solid #ccc;
+    height:650px;
+    text-align:left;
+    left:50%;
+    margin-left:-300px;
+    position:absolute;
+    top:50%;
+    margin-top:-400px;
+}
+.add_user_forms form{
+    margin:20px auto;
+}
+.set_ority{
+    background: #fff;
+    padding:20px;
+    border:1px solid #ccc;
+    width:800px;
+    left:50%;
+    margin-left:-400px;
+    position: absolute;
+    top: 0;
+
+}
+.set_ority form{
+    margin-bottom:0;
+    width:100%;
+    max-width: 100%;
+}
+.set_ority .ant-row{
+    margin-bottom: 0px;
+}
+.set_ority .ant-checkbox-group-item{
+    margin:5px 0;
+    width:150px;
+}
+.aBt1 button{
+    background: #1E90FF;
+}
+.aBt1 button:hover{
+    background:#1E90FF;
+}
+.aBt1 button:active{
+    background: #00BFFF;
+}
+.aBt1 button:focus{
+    background: #00BFFF;
+}
+.aBt1 button{
+    width:50%;
+    float: left;
+}
+.example-input .ant-input{
+    width:100px;
+    margin:5px 5px;
+}
+.example-input .ant-btn{
+    margin:5px 5px;
+}
+.user_set_ority{
+    margin:0px 5%;
+    z-index: 999;
+    width:90%;
+    border:1px solid #ccc;
+    background: #fff;
+    padding:50px;
+    position:absolute;
+    left:0;
+}
+.user_set_ority .ant-input-group-wrapper{
+    width:280px;
+    margin:5px;
+}
+/* .user_set_ority input{
+    max-width:180px;
+} */
+.create_user{
+    width:700px;
+    margin:0 auto;
+}
+.create_user input{
+    width:400px;
+    margin:20px 0;
+}
+.create_user .ant-select-selection{
+    margin:10px 0;
+}
+.create_user .create_div{
+    width:700px;
+    background: #fff;
+    border:1px solid #ccc;
+    position: absolute;
+    overflow: hidden;
+    z-index: 999;
+    padding:20px;
+}
+.create_div span{
+    margin-left:2px;
+    font-size: 13px;
+    border:1px solid #ccc;
+    text-align: center;
+}
+.user_box{
+    overflow: hidden;
+    width:75%;
+    top:50%;
+    left:50%;
+    margin-left: -37.5%;
+    margin-top:-180px;
+    position: absolute;
+    z-index: 999;
+    height:110px;
+}
+.user_box .ant-table-body{
+    background: #ccc;
+}
+
+.resive{
+  position:fixed;
+  width:400px;
+  margin-left: -200px;
+  background: #fff;
+  border:1px solid #ccc;
+  text-align: center;
+  color:#fff;
+  padding:20px;
+  margin-top:10px;
+
+  left:50%;  
+}
+.resive button{
+    float:none;
+    width:150px;
+    display: block;
+    margin:20px auto;
+}
+.resive button:hover{
+    color:#fff;
+}
+.resive .Close {
+    position:absolute;
+    top:10px;
+    right: 10px;
+    color:black;
+    cursor: pointer;
+}
+@media screen and (max-width:720px)
+{
+    .is_show{
+        width:100%;
+        height:600px;
+        border:1px solid #ccc;
+        z-index:999;
+        left:50%;
+        margin-left:-50%;
+        margin-top:-200px;
+        position:absolute;
+        top:50%;
+        background: #fff;
+        padding:20px;
+     }
+}
+
+@media screen and (min-width:720px)
+{
+    .is_show{
+        width:400px;
+        height:600px;
+        background: #fff;
+        padding:20px;
+        border:1px solid #ccc;
+        z-index:999;
+        left:50%;
+        margin-left:-200px;
+        margin-top:-300px;
+        position:absolute;
+        top:50%;
+     }
+}
+.is_show div{
+    height:50px;
+    position: relative;
+}
+
+.is_show input{
+    top:0;
+    position: absolute;
+    right:20px;
+    width:200px;
+}
+
+.is_show i{
+    position: absolute;
+    top: 10px;
+    font-size:20px;
+    right:10px;
+}
+.borrow{
+    width:400px;
+    margin:0 auto;
+}
+.borrow .ant-input-group-wrapper{
+    margin:10px 0;
+}
+.borrow1{
+    width:400px;
+    margin:0 auto;
+}
+.borrow1 .ant-input-group-wrapper{
+    margin:20px 0;
+}
+.dialog{
+    width:350px;
+    border:1px solid #ccc;
+    font-size:18px;
+    padding:20px 40px;
+    background: #fff;
+    border-radius: 10px;
+    position:absolute;
+    z-index: 999;
+    top:20px;
+}
+.dialog .anticon-close{
+    position: absolute;
+    right:20px;
+   font-weight: bold;
+   cursor: pointer;
+    top:12px;
+    font-size: 14px;
+}
+.dialog span{
+    display: block;
+}
+.get_my_info{
+    position: absolute;
+    width:600px;
+    padding:20px;
+    border:1px solid #ccc;
+    border-radius: 10px;
+    top:50%;
+    left:50%;
+    margin-top:-250px;
+    background: #fff;
+    margin-left:-187px;
+    z-index: 999;
+}
+.get_my_info .ant-input-group-wrapper{
+    margin:20px 10px;
+    width:46%
+}
+.Buttons{
+    line-height: 25px;
+    margin-left:10px;
+    color:#fff;
+    background: #6fb3e0;
+    cursor: pointer;
+    border:0;
+}
+.Buttons:hover{
+    color:#fff;
+    background: #40a9ff;
+}

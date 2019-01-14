@@ -1,0 +1,35 @@
+ 
+html,body,#root{
+     width: 100%;
+     height: 100%;
+ }
+ .data_bj{
+    width: 100%;
+    height: 100%;
+   background-color:#6fb3e0
+ }
+.login_box{
+    width:500px;
+    height:350px;
+    margin-top:-175px;
+    z-index: 999;
+    top:400px;
+    left:50%;
+    padding:30px 70px;
+    margin-left:-250px;
+    position:absolute;
+    background: #fff;
+ }
+ .data_bj form{
+    width:350px;
+ }
+ .login-form {
+    max-width: 350px;
+  }
+   .login-form-forgot {
+    float: right;
+  }
+   .login-form-button {
+    width: 100%;
+  }
+  
